@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+.vite/
+frontend/.vite/
+
+# Build artifacts
+dist/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+*.db
+backend/*.db
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
