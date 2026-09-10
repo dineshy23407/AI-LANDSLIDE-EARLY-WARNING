@@ -1,0 +1,29 @@
+name,email,role,district,state,site_id,alert_level_threshold
+Dr. T. R. Sharma,ddma.gangtok@sikkim.gov.in,District Disaster Management Officer,East Sikkim,Sikkim,A-02,HIGH
+Col. Pradeep Gurung,bro.taskforce48@gov.in,Border Roads Organisation (BRO),Gangtok-Nathula,Sikkim,A-02,HIGH
+Sonam Lepcha,north.sikkim.relief@gmail.com,Sub-Divisional Magistrate,Mangan,Sikkim,SK-02,HIGH
+Chungthang Village Council,chungthang.panchayat@gmail.com,Local Community Head,Chungthang,Sikkim,SK-02,MEDIUM
+Er. R. Lalthanzuala,ddma.champhai@mizoram.gov.in,District Project Officer (DDMA),Champhai,Mizoram,B-04,HIGH
+Commander Zoramthanga,bro.756brtf@nic.in,BRO Highway Maintenance Cell,Champhai Ridge,Mizoram,B-04,HIGH
+Hunthar Disaster Ward Cell,hunthar.vcp@gmail.com,Local Village Council President,Aizawl West,Mizoram,MZ-02,MEDIUM
+Aizawl Municipal Commissioner,commissioner.amc@mizoram.gov.in,Municipal Commissioner,Aizawl,Mizoram,MZ-02,HIGH
+P. K. Debbarma,ddma.haflong@assam.gov.in,District Emergency Officer,Dima Hasao,Assam,C-01,HIGH
+NF Railway Safety Cell,safety.lumding@nfr.railnet.gov.in,Railway Safety Engineering Division,Haflong-Lumding,Assam,C-01,HIGH
+Jatin Kalita,kamakhya.slope.watch@gmail.com,Ward Relief Coordinator,Guwahati West,Assam,AS-02,MEDIUM
+Guwahati Municipal Disaster Cell,disaster.gmc@assam.gov.in,Urban Disaster Cell,Kamrup Metropolitan,Assam,AS-02,HIGH
+Bah K. Syiemlieh,ddma.sohra@meghalaya.gov.in,Block Emergency Coordinator,East Khasi Hills,Meghalaya,ML-01,HIGH
+Cherrapunji Citizen Watch,cherra.relief.cell@gmail.com,Community Emergency Volunteer,Sohra,Meghalaya,ML-01,MEDIUM
+Ri-Bhoi Highway Patrol,traffic.ribhoi@megpolice.gov.in,Highway Transit Authority,Ri-Bhoi,Meghalaya,ML-02,HIGH
+Tenzing Norbu,ddma.tawang@arunachal.gov.in,District Disaster Officer,Tawang,Arunachal Pradesh,AR-01,HIGH
+BRO Project Vartak Control,vartak.control@nic.in,BRO Military Border Highway Unit,West Kameng,Arunachal Pradesh,AR-01,HIGH
+Papum Pare Emergency Cell,dc.itanagar@arunachal.gov.in,District Collectorate,Papum Pare,Arunachal Pradesh,AR-02,HIGH
+Imnatoba Ao,ddma.kohima@nagaland.gov.in,District Disaster Authority,Kohima,Nagaland,NL-01,HIGH
+Chumukedima Transport Union,chumu.truckers@gmail.com,Hill Highway Transport Union,Chumukedima,Nagaland,NL-01,HIGH
+Nongmeikapam Singh,ddma.noney@manipur.gov.in,District Emergency Officer,Noney,Manipur,MN-02,HIGH
+Tupul Relief Staging Camp,tupul.camp.nodal@gmail.com,Relief Camp Coordinator,Tupul Valley,Manipur,MN-02,HIGH
+Imphal East Control Room,control.imphal@manipur.gov.in,State Emergency Control,Imphal West,Manipur,MN-01,HIGH
+Tripura Disaster Management Cell,seoc.agartala@tripura.gov.in,State Emergency Operations Centre,Agartala,Tripura,TR-01,HIGH
+Jampui Hills Community Watch,jampui.panchayat@gmail.com,Tribal Village Council,North Tripura,Tripura,TR-01,MEDIUM
+NDRF 1st Battalion Control (Patgaon),control.1bn.ndrf@gov.in,National Disaster Response Force,North East Zone,ALL,HIGH
+SDRF Regional Operations Cell,sdrf.ner.control@gov.in,State Disaster Response Force,North East Network,ALL,HIGH
+NER Highway Transit Control,highway.alerts.ner@nhai.gov.in,National Highways Authority,NER Lifeline Highways,ALL,HIGH

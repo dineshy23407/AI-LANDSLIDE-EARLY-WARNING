@@ -1,0 +1,95 @@
+{
+  "model_name": "Random Forest Classifier for Landslide Risk Early Warning",
+  "algorithm": "RandomForestClassifier (150 trees, max_depth=12)",
+  "region": "North Eastern Region of India (NER)",
+  "features": [
+    "rainfall",
+    "soil_moisture",
+    "tilt",
+    "vibration"
+  ],
+  "classes": [
+    "LOW",
+    "MEDIUM",
+    "HIGH",
+    "VERY HIGH"
+  ],
+  "accuracy": 0.8988,
+  "f1_macro": 0.8844,
+  "f1_weighted": 0.8994,
+  "cv_mean_accuracy": 0.8902,
+  "cv_std_accuracy": 0.0167,
+  "classification_report": {
+    "LOW": {
+      "precision": 0.9485530546623794,
+      "recall": 0.9021406727828746,
+      "f1-score": 0.9247648902821317,
+      "support": 327.0
+    },
+    "MEDIUM": {
+      "precision": 0.7708333333333334,
+      "recall": 0.7928571428571428,
+      "f1-score": 0.7816901408450704,
+      "support": 140.0
+    },
+    "HIGH": {
+      "precision": 0.8536585365853658,
+      "recall": 0.9150326797385621,
+      "f1-score": 0.8832807570977917,
+      "support": 153.0
+    },
+    "VERY HIGH": {
+      "precision": 0.9457013574660633,
+      "recall": 0.95,
+      "f1-score": 0.9478458049886621,
+      "support": 220.0
+    },
+    "accuracy": 0.8988095238095238,
+    "macro avg": {
+      "precision": 0.8796865705117856,
+      "recall": 0.8900076238446448,
+      "f1-score": 0.884395398303414,
+      "support": 840.0
+    },
+    "weighted avg": {
+      "precision": 0.900901869382571,
+      "recall": 0.8988095238095238,
+      "f1-score": 0.8994080616357556,
+      "support": 840.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      295,
+      32,
+      0,
+      0
+    ],
+    [
+      16,
+      111,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      140,
+      12
+    ],
+    [
+      0,
+      0,
+      11,
+      209
+    ]
+  ],
+  "feature_importances": {
+    "rainfall": 0.4298,
+    "tilt": 0.2316,
+    "soil_moisture": 0.1811,
+    "vibration": 0.1575
+  },
+  "test_samples_count": 840,
+  "train_samples_count": 3360
+}
